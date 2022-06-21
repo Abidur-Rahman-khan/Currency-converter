@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: Padding(
-        padding: EdgeInsets.all(5),
+        padding: EdgeInsets.all(10),
         child: CurrecyConverter(),
       ),
     );
